@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Computer Science & Engineering...
 - 💞️ I’m looking to collaborate on Website Development & Networking...
 - 📫 Email me, atik49720@gmail.com ...
-- 📫 LinkedIn <b>https://www.linkedin.com/in/atik49720/</b>
+- 📫 LinkedIn: <b>https://www.linkedin.com/in/atik49720/</b>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atik49720)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -32,3 +32,5 @@
 </p>
 
 ![ATIK's GitHub stats](https://github-readme-stats.vercel.app/api?username=atik49720&count_private=true)
+
+![](https://komarev.com/ghpvc/?username=atik49720&color=green)
