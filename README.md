@@ -31,6 +31,4 @@
 
 ![ATIK's GitHub stats](https://github-readme-stats.vercel.app/api?username=atik49720&count_private=true&theme=transparent&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
-![ATIK's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=atik49720&theme=transparent)
-
 ![](https://komarev.com/ghpvc/?username=atik49720&color=green)
