@@ -6,7 +6,7 @@
 - 📫 Email me, mail@mdatik.dev ...
 - 📫 Portfolio: <b>https://mdatik.dev</b>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atik49720)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atik49720&theme=transparent)
 
 <h3 align="left">Top Languages:</h3>
 <p align="left"> 
@@ -29,6 +29,6 @@
   </a>
 </p>
 
-![ATIK's GitHub stats](https://github-readme-stats.vercel.app/api?username=atik49720&count_private=true)
+![ATIK's GitHub stats](https://github-readme-stats.vercel.app/api?username=atik49720&count_private=true&theme=transparent)
 
 ![](https://komarev.com/ghpvc/?username=atik49720&color=green)
