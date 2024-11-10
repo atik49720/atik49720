@@ -6,8 +6,6 @@
 - 📫 Email me, mail@mdatik.dev ...
 - 📫 Portfolio: <b>https://mdatik.dev</b>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atik49720&theme=transparent)
-
 <h3 align="left">Top Languages:</h3>
 <p align="left"> 
   <a href="https://www.w3schools.com/c/" target="_blank"> 
@@ -28,6 +26,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a>
 </p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atik49720&theme=transparent)
 
 ![ATIK's GitHub stats](https://github-readme-stats.vercel.app/api?username=atik49720&count_private=true&theme=transparent)
 
