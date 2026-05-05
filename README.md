@@ -50,9 +50,9 @@
 
 ---
 
-## ⏱️ WakaTime Stats (Coding Activity)
+## ⏱️ WakaTime Stats (Last Year)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=atik49720&theme=tokyonight" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/wakatime?username=atik&theme=tokyonight" />
 </p>
 
 > ⚠️ Make sure your WakaTime username is **public** and matches `atik49720`
